@@ -1,4 +1,4 @@
-## Oi, eu sou a João Augusto J. Corrêa e amo programação em C#, CSS, HTML e JavaScript.
+## Oi, eu sou João Augusto J. Corrêa e amo programação em C#, CSS, HTML e JavaScript.
 <div align="center">
   <a href="https://github.com/joaoaugustocorrea">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaoaugustocorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
